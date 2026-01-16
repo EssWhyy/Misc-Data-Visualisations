@@ -1,11 +1,5 @@
 # DataIsBeautiful-Visualisations
-A selection of informative data visualisations which I made from 2019-2020
-
-Tools used include:
-
-- Excel
-- Python, Pandas, MatPlotLib
-- Tableau, Gephi, GraphJS
+A selection of informative data visualisations. Made mostly using Python libraries (Matplotlib, Pandas etc.)
 
 ## Some sample data visuals
 
