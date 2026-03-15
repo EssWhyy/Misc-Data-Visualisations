@@ -20,9 +20,10 @@ col_date = 4
 
 number = 0
 
-#Create a script application in reddit preferences. Change whenever making a new script/account
-reddit = praw.Reddit(client_id='foi1cv65T5v13w',
-                     client_secret='oa2Nn50n0irmIAwloOtq6K08_zM',
+#Create a script application in reddit preferences. 
+# Change whenever making a new script/account
+reddit = praw.Reddit(client_id='aaa',
+                     client_secret='aaa',
                      user_agent='Reddit_Post_Crawler')
 
 print(reddit.read_only)  #Should Output False if above data is entered correctly

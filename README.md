@@ -1,8 +1,13 @@
 # Miscellaneous Data Visualisations by Swen Tang
-A selection of informative data visualisations. Made using Python and JS libraries (Matplotlib, Pandas, D3js etc.)
+A selection of informative data visualisations. Made using Tableau, Python and JS libraries. Some minor refinement using Photoshop/Gimp.
 
-## Some sample data visuals
+## Sample Visuals
 
-<img width="400" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/c36df44d-4486-4f64-a036-402c62578bc1">
-<img width="400" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/e1b43cd7-33ac-49b9-9048-4acf6e6d4e05">
+### MatplotLib
+<img width="500" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="MRT Disruptions 2025\MRT DIsruptions 2025.png">
 
+### Tableau
+<img width="400" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="Tableau\Disney Live Action.jpg">
+<img width="400" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="Tableau\pandemics.jpg">
+
+### D3.js (coming soon)
