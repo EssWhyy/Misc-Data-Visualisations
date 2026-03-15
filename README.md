@@ -1,5 +1,5 @@
-# DataIsBeautiful-Visualisations
-A selection of informative data visualisations. Made mostly using Python libraries (Matplotlib, Pandas etc.)
+# Miscellaneous Data Visualisations by Swen Tang
+A selection of informative data visualisations. Made using Python and JS libraries (Matplotlib, Pandas, D3js etc.)
 
 ## Some sample data visuals
 
