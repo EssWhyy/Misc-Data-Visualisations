@@ -1,9 +1,10 @@
 # Miscellaneous Data Visualisations by Swen Tang
-A selection of informative data visualisations. Made using Tableau, Python and JS libraries. Some minor refinement using Photoshop/Gimp.
+A selection of informative data visualisations I made using Tableau, Python and JS libraries. Some minor refinement using Photoshop/Gimp.
 
 ## Sample Visuals
 
 ### D3.js
+https://esswhyy.github.io/sg-biodiversity-treemap
 <img width="900" height="600" alt="SG Species Treemap" src="https://github.com/user-attachments/assets/6ce167e8-7e64-4145-a610-397ed3c3eeda" />
 
 ### MatplotLib
